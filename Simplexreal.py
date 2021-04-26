@@ -1,3 +1,4 @@
+# Simplex Method in Linear Programming Solution using Python 
 import numpy as np 
 from fractions import Fraction as f  
 M = int(input("Enter the number of  equations:"))
